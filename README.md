@@ -1,2 +1,23 @@
-# CH-CASM-M-2026
-Computational Analysis of Sound and Music (CH-CASM-M)
+# Computational Analysis of Sounds and Music (CH-CASM-M)
+
+**WS 2026/2027**
+
+Prof. Dr. Jakob Abeßer
+
+jakob.abesser@uni-bamberg.de
+
+Last update: **18.10.2026**
+
+## Jupyter Notebooks (Seminar)
+
+- 01 - Fundamentals of Audio Processing (1/2) 
+	- Part 1
+		- [IPython Notebook (ipynb)](CH-CASM-M-01-Audio-1-Seminar-1.ipynb)
+		- [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2026/blob/main/CH-CASM-M-01-Audio-1-Seminar-1.ipynb)
+
+
+
+	
+
+
+
