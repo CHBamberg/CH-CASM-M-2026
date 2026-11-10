@@ -26,6 +26,12 @@ Last update: **27.10.2026**
 	- [IPython Notebook (ipynb)](CH-CASM-M-03-Music_Tagging-Seminar.ipynb)
     - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2026/blob/main/CH-CASM-M-03-Music_Tagging-Seminar.ipynb)
 
+- 04 - Source Separation
+	- [IPython Notebook (ipynb)](CH-CASM-M-04-Source_Separation-Seminar.ipynb)
+    - [Open in Google Colab](https://colab.research.google.com/github/CHBamberg/CH-CASM-M-2026/blob/main/CH-CASM-M-04-Source_Separation-Seminar.ipynb)
+
+
+
 
 
 	
